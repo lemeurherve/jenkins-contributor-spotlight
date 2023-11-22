@@ -1,8 +1,8 @@
 {
-  "name": "jenkins-contributor-spotlight",
+  "name": "contributors-spotlight",
   "version": "1.0.0",
   "private": true,
-  "description": "jenkins-contributor-spotlight",
+  "description": "contributors-spotlight",
   "author": "Kris Stern",
   "keywords": [
     "gatsby"

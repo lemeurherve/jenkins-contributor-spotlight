@@ -1,4 +1,4 @@
-# Jenkins Contributor Spotlight
+# Jenkins Contributors Spotlight
 
 This feature is to showcase the top contributors of the Jenkins project.
 
@@ -9,7 +9,7 @@ This feature is to showcase the top contributors of the Jenkins project.
     Run the following commands at the terminal: 
 
     ```shell
-    cd jenkins-contributor-spotlight/
+    cd contributors-spotlight/
     npm run develop
     ```
 
