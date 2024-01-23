@@ -4,22 +4,13 @@ This feature is to showcase the top contributors of the Jenkins project at link:
 
 == 🚀 Quick start
 
-1. **Install dependencies**
+1. **Run development environment**
 
-    Run the following commands in your terminal:
+    Run the following commands at the terminal:
 +
 [source,bash]
 ----
 cd contributor-spotlight/
-npm install
-----
-
-1. **Run development environment**
-
-    Run the following commands in your terminal:
-+
-[source,bash]
-----
 npm run clean && npm run develop
 ----
 
@@ -29,7 +20,7 @@ npm run clean && npm run develop
 
 3. **To run prettier**
 
-    Run the following commands in your terminal:
+    Run the following commands at the terminal:
 +
 [source,bash]
 ----
@@ -38,7 +29,7 @@ npm run format
 
 4. **To run eslint**
 
-    Run the following commands in your terminal:
+    Run the following commands at the terminal:
 +
 [source,bash]
 ----
