@@ -21,7 +21,7 @@ function ContributorDetails(props) {
         <>
             <Helmet>
                 <meta charSet='utf-8' />
-                <title>{props.data.asciidoc.pageAttributes.name}</title>
+                <title>Contributor Spotlight - {props.data.asciidoc.pageAttributes.name}</title>
                 <meta
                     name='title'
                     property='og:title'
